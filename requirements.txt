@@ -1,0 +1,8 @@
+pandas
+ipykernel
+matplotlib
+seaborn
+Pillow
+scikit-learn
+tensorflow
+numpy==1.26.0
